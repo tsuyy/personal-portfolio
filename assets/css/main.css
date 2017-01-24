@@ -2,22 +2,20 @@ h1 {
   text-align: center;
   font-family: monospace;
   font-weight: lighter;
-
+  font-size: 60px;
 }
 
 nav {
-  background-color: rgba(0, 0, 0, 60%)
-
+  font-size: 1em;
 }
 
 a {
   text-decoration: none;
-  float: right;
+  float: left;
   display: block;
   padding: 30px;
   margin: auto;
   color: gray;
-  text-align: center;
 }
 
 a:hover {
@@ -32,4 +30,8 @@ a:hover {
   clear: both;
   height: 0;
   font-size: 0;
+}
+
+p {
+  text-align: center;
 }
