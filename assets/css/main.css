@@ -5,3 +5,7 @@ img {
 .projects {
   list-style-type: none;
 }
+
+img.p-images {
+  width: 30%;
+}
